@@ -1,2 +1,3 @@
-from ccr.ccs.tencentyun.com/shuhe/nginx:stable
+from centos/nginx-18-centos7:latest
+#from ccr.ccs.tencentyun.com/shuhe/nginx:stable
 #add ./index.html /usr/share/nginx/html
